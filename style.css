@@ -30,3 +30,6 @@ body{
     color: black;
     text-decoration: none;
 }
+.main-container img{
+    width: 90%;
+}
